@@ -23,3 +23,9 @@ We implemented our code based on the paper: Generic Attention-model Explainabili
 [https://github.com/hila-chefer/Transformer-MM-Explainability](https://github.com/hila-chefer/Transformer-MM-Explainability)
 
 Please see the `examples.ipynb`.
+
+
+### Example:
+Descrite the image in a sentence.
+
+![](./assets/output.png)
